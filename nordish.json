@@ -1,0 +1,16 @@
+{
+    "alternate_base": "#3b4252",
+    "base": "#2e3440",
+    "button": "#81a1c1",
+    "chat_timestamp": "#eceff4",
+    "disabled_button": "#5e81ac",
+    "disabled_icon": "#d8dee9",
+    "disabled_text": "#d8dee9",
+    "highlight": "#5e81ac",
+    "highlighted_text": "#ebcb8b",
+    "icon": "#d8dee9",
+    "text": "#eceff4",
+    "unread_badge": "#2b2e2f",
+    "unread_badge_text": "#bf616a",
+    "window": "#2e3440"
+}
